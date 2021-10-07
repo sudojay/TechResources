@@ -2,6 +2,7 @@
 
 | Name  | Source |
 | ------------- | ------------- |
+| Teach Yourself CS | https://teachyourselfcs.com/ |
 | Practical Ethical Hacking  | https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course  |
 | Notes  | https://drive.google.com/drive/mobile/folders/16Sfv_0kNEJsbAMZ9VAbnBZujGTOdVU7l  |
 | Free Data Science Course  | https://www.theclickreader.com/beginner-datascience-courses/  |
@@ -20,9 +21,9 @@
 | .NET | https://dotnet.microsoft.com/learn |
 | Online OS | https://www.onworks.net/ |
 | Ebook Foundation | https://github.com/EbookFoundation/free-programming-books |
-| ------------- | ------------- |
-| ------------- | ------------- |
-| ------------- | ------------- |
+| Web Dev Resources | https://threadreaderapp.com/thread/1270765145619337218.html |
+| Maths for CS | https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ |
+| AICTE Free courses | https://free.aicte-india.org/ |
 | ------------- | ------------- |
 | ------------- | ------------- |
 | ------------- | ------------- |
