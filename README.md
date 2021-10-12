@@ -24,7 +24,7 @@
 | Web Dev Resources | https://threadreaderapp.com/thread/1270765145619337218.html |
 | Maths for CS | https://www.youtube.com/playlist?list=PLUl4u3cNGP60UlabZBeeqOuoLuj_KNphQ |
 | AICTE Free courses | https://free.aicte-india.org/ |
-| ------------- | ------------- |
+| Blockchain Demo (Simulator)  | https://andersbrownworth.com/blockchain/blockchain |
 | ------------- | ------------- |
 | ------------- | ------------- |
 | ------------- | ------------- |
